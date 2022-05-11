@@ -1,2 +1,3 @@
 Sobre el montaje de mongo en docker lo estuvimos intentando toda la tarde  y no pudimos, no se si no se montaba la imagen o algun problema con el puerto de mi pc que
-siempre que hay algo con docker no funciona, aunque me decia que ya estaba la imagen y corrria en la carpeta evidencias le monto las imagenes de los intentos que tuvimos aunque todo intentamos hacerlo por consola.
+siempre que hay algo con docker no funciona, aunque me decia que ya estaba la imagen y corrria no me dejaba entrar, tal vez fue complique de nosotros hacerlo asi,
+en la carpeta evidencias le monto las imagenes de los intentos que tuvimos aunque todo intentamos hacerlo por consola.
